@@ -8,6 +8,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
 
+- [cheat sheet](#http://cheats.jesse-obrien.ca/)
+
 - [Essentials](#essentials)
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
